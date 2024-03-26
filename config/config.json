@@ -1,0 +1,9 @@
+{
+    "VideoHandler":{
+        "videoSource":"/home/yossef/Videos/2.mp4"
+    },
+
+    "Model":{
+        "ModelPath":"/home/yossef/Documents/PROJECTS/SecurityCam/assets/resnet18_trt.pth"
+    }
+}
